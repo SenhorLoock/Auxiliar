@@ -45,7 +45,8 @@ if [ "$resultado" = "03" ]
      cd backdoortst
 
        bash install.sh
-
+        cd ..
+         bash Auxiliar.sh
 fi
 
 if [ "$resultado" = "00" ]
