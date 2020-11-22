@@ -51,7 +51,7 @@ fi
 
 if [ "$resultado" = "00" ]
     then
-
+    clear
      figlet -f mono12 "saindo.."
 
 fi
