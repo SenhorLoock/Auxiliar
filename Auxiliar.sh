@@ -1,6 +1,6 @@
 #!/bin/bash
 
-git clone https://github.com/shoowl/backdoortst.git
+git clone https://github.com/SenhorLoock/backdoortst.git
 
 clear
 
